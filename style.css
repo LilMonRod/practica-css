@@ -1,0 +1,13 @@
+/* {
+	background-color: #9BF1F1; */
+}
+body .titulo {
+	text-align: justify;
+}
+html {
+    background-image: url("diseno.jpg");
+    background-repeat: repeat-x;
+}
+p:first-of-type {
+	color: blue;
+}
